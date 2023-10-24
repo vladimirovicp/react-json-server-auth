@@ -1,1 +1,9 @@
-https://www.figma.com/file/ha4dD8WSM66u4TsThtqdL4/consultburo?type=design&node-id=0-1&mode=design
+## React JS - Авторизация json-server-auth
+
+[https://www.youtube.com/watch?v=mc2rtmmuj6Y](https://www.youtube.com/watch?v=mc2rtmmuj6Y)
+
+
+npm i json-server json-server-auth concurrently
+
+>* https://www.npmjs.com/package/json-server-auth
+https://github.com/react-icons/react-icons
