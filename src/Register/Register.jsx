@@ -1,8 +1,12 @@
 import React from 'react';
 
+import MainForm from '../components/Form/MainForm';
+
 function Register(){
     return(
-        <div>Register</div>
+        <div>
+            <MainForm />
+        </div>
     );
 }
 

@@ -6,4 +6,5 @@
 npm i json-server json-server-auth concurrently
 
 >* https://www.npmjs.com/package/json-server-auth
-https://github.com/react-icons/react-icons
+>* https://www.npmjs.com/package/react-icons
+>* https://github.com/react-icons/react-icons
